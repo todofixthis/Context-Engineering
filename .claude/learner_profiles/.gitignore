@@ -1,0 +1,11 @@
+# Learner profiles contain personal learning data
+# and should not be committed to version control
+
+# Ignore all JSON profile files
+*.json
+
+# Keep the README
+!README.md
+
+# Keep example template
+!example_profile_template.json

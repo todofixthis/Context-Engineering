@@ -38,6 +38,7 @@ The operating system provides a selection of agents that serve as scaffolds for 
 | [`research.agent.md`](./research.agent.md) | Research workflows | `/research topic="quantum computing" depth="technical"` |
 | [`security.agent.md`](./security.agent.md) | Security analysis | `/security target="app" scope="full" report="detailed"` |
 | [`test.agent.md`](./test.agent.md) | Test generation and execution | `/test suite="integration" mutate=true report=summary"` |
+| [`tutor.agent.md`](./tutor.agent.md) | Adaptive course tutoring | `/tutor learn context_formalization` or `/tutor review progress` |
 
 ## Command Structure
 
